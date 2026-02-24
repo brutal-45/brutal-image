@@ -79,7 +79,7 @@ bun run build
 bun start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to start editing.
+Open [https://brutal-image.vercel.app/) to start editing.
 
 ## 📥 Download
 
