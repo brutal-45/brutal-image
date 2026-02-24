@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>BRUTALIMAGE for Android</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: linear-gradient(135deg, #0a0a0a, #1a1a1a);
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      margin: 0;
+      padding: 20px;
+    }
+    .container {
+      text-align: center;
+      max-width: 500px;
+    }
+    .logo {
+      width: 80px;
+      height: 80px;
+      background: linear-gradient(135deg, #00ffff, #ff0066);
+      border-radius: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 24px;
+      font-size: 40px;
+      font-weight: bold;
+      color: #000;
+    }
+    h1 { color: #00ffff; margin-bottom: 16px; }
+    p { color: #888; line-height: 1.6; margin-bottom: 24px; }
+    .btn {
+      display: inline-block;
+      padding: 16px 32px;
+      background: linear-gradient(135deg, #00ffff, #00cccc);
+      color: #000;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+      margin: 8px;
+    }
+    .btn-secondary {
+      background: transparent;
+      border: 2px solid #ff0066;
+      color: #ff0066;
+    }
+    .info {
+      margin-top: 32px;
+      padding: 16px;
+      background: rgba(0,255,255,0.1);
+      border-radius: 8px;
+      border: 1px solid rgba(0,255,255,0.2);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="logo">B</div>
+    <h1>BRUTALIMAGE for Android</h1>
+    <p>Install BRUTALIMAGE as a Progressive Web App on your Android device for the best experience.</p>
+    <a href="/" class="btn">Open Web App</a>
+    <a href="/" class="btn btn-secondary">Install PWA</a>
+    <div class="info">
+      <p><strong>How to install on Android:</strong></p>
+      <p>1. Open brutalimage.app in Chrome<br>
+         2. Tap the menu (three dots)<br>
+         3. Select "Add to Home Screen"<br>
+         4. The app will work offline!</p>
+    </div>
+  </div>
+</body>
+</html>

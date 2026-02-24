@@ -1,0 +1,81 @@
+{
+  "name": "BRUTALIMAGE - Professional Image Editor",
+  "short_name": "BRUTALIMAGE",
+  "description": "Professional AI-powered image editor with advanced tools for photo editing, retouching, and creative design",
+  "version": "2.3.0",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#00ffff",
+  "orientation": "any",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["photo", "design", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-wide.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "BRUTALIMAGE Editor Interface"
+    },
+    {
+      "src": "/screenshot-mobile.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "BRUTALIMAGE Mobile Editor"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "New Image",
+      "short_name": "New",
+      "description": "Create a new image",
+      "url": "/?action=new",
+      "icons": [{ "src": "/icon.svg", "sizes": "96x96" }]
+    },
+    {
+      "name": "Open Image",
+      "short_name": "Open",
+      "description": "Open an existing image",
+      "url": "/?action=open",
+      "icons": [{ "src": "/icon.svg", "sizes": "96x96" }]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "features": [
+    "Layer-based editing",
+    "AI-powered tools",
+    "Professional filters",
+    "Brush & retouching tools",
+    "Text & shapes",
+    "Export in multiple formats"
+  ],
+  "permissions_policy": {
+    "camera": ["self"],
+    "microphone": []
+  },
+  "handle_links": "preferred",
+  "launch_handler": {
+    "client_mode": "navigate-existing"
+  },
+  "edge_side_panel": {
+    "preferred_width": 400
+  }
+}
