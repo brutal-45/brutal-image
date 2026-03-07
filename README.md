@@ -165,7 +165,7 @@ bun run dev
 
 <div align="center">
 
-**Open [localhost:3000](http://localhost:3000) and start creating!**
+**Open [localhost:3000](https://brutal-image.vercel.app/) and start creating!**
 
 </div>
 
