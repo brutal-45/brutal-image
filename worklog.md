@@ -10,7 +10,7 @@ Starting project development with the following plan:
 1. Creating brutal futuristic dark theme with neon accents
 2. Building landing page with Hero, Features, Showcase, Pricing, Testimonials, Platform, Footer sections
 3. Creating fully functional image editor with Canvas API
-4. Integrating AI features using z-ai-web-dev-sdk
+4. Integrating AI features.
 5. Implementing responsive design with Framer Motion animations
 
 ---
