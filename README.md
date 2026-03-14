@@ -315,7 +315,7 @@ Contributions are welcome! Feel free to:
 
 <br>
 
-### **Made with BRUTALTOLLS ❤️ for creators everywhere**
+### **Made with BRUTALTOLLS ❤️ for creators everywhere**...
 
 **[⬆ Back to Top](#️-brutalimage)**
 
