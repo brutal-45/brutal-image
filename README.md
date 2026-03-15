@@ -307,9 +307,9 @@ copies of the Software.
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
-- 🐛 Report bugs.
-- 💡 Suggest features.
-- 🔧 Submit pull requests.
+- 🐛 Report bugs
+- 💡 Suggest features
+- 🔧 Submit pull requests
 
 ---
 
