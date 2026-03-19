@@ -311,11 +311,11 @@ Contributions are welcome! Feel free to:
 - 💡 Suggest features.
 - 🔧 Submit pull requests.
 
----
+----
 
 <br>
 
-### **Made with BRUTALTOLLS ❤️ for creators everywhere**
+### **Made with BRUTALTOLLS  for creators everywhere**
 
 **[⬆ Back to Top](#️-brutalimage)**
 
