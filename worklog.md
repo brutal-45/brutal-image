@@ -118,7 +118,7 @@ Verified and confirmed all components are complete and functional:
    - `/public/logo.png` - App icon
    - `/public/logo.svg` - Vector logo
 
-All lint checks pass (0 errors, 0 warnings). Application running on port 3000.
+All lint checks pass (0 errors, 0 warnings). Application running on https://brutal-image.vercel.app/
 
 ---
 ## Task ID: 4 - Editor Improvements & Download Section Update
