@@ -311,7 +311,7 @@ Contributions are welcome! Feel free to:
 - 💡 Suggest features.
 - 🔧 Submit pull requests.
 
-----
+---
 
 <br>
 
