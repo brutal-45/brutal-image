@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "BRUTALIMAGE - AI-Powered Image Editor",
+    title: "BRUTALIMAGE -- AI-Powered Image Editor",
     description: "Edit Photos. Brutally Perfect.",
     images: ["/download/images/editor-mockup.png"],
   },
