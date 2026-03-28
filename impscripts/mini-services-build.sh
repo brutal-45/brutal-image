@@ -5,7 +5,7 @@ ROOT_DIR="/home/z/my-project/mini-services"
 DIST_DIR="/tmp/build_fullstack_$BUILD_ID/mini-services-dist"
 
 main() {
-    echo "🚀 开始批量构建..."
+    echo "
     
     # 检查 rootdir 是否存在
     if [ ! -d "$ROOT_DIR" ]; then
