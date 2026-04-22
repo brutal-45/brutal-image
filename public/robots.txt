@@ -8,7 +8,7 @@ User-agent: Twitterbot
 Allow: /
 
 User-agent: facebookexternalhit
-Allow: /
+Allow: / 
 
 User-agent: *
 Allow: /
