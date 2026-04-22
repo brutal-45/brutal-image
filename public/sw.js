@@ -6,7 +6,7 @@ const STATIC_ASSETS = [
   '/icons/icon-192x192.png',
   '/icons/icon-512x512.png'
 ];
-
+ 
 // Install event - cache static assets
 self.addEventListener('install', (event) => {
   event.waitUntil(
