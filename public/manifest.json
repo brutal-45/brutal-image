@@ -2,7 +2,7 @@
   "name": "BRUTALIMAGE - Professional Image Editor", 
   "short_name": "BRUTALIMAGE",
   "description": "Professional AI-powered image editor with advanced tools for photo editing, retouching, and creative design",
-  "version": "2.3.0",
+  "version": "2.3.0", 
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0a0a0a",
