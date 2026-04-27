@@ -39,7 +39,6 @@ Successfully implemented:
    - Background Removal button (placeholder for backend)
    - AI Enhance button (applies smart filter adjustments)
    - Upscale 2x button (placeholder for backend)
-   - Created API endpoint at `/api/ai/enhance` using z-ai-web-dev-sdk
 
 4. **PWA Support**:
    - Created `manifest.json` with app info, icons, shortcuts
