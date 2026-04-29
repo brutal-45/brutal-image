@@ -9,7 +9,7 @@ import {
   Filter, Blend, Sparkles as SparklesIcon, Wand2 as Wand2Icon,
   Pen, Pencil, SprayCan, AirVent, CircleSlash, 
   RectangleHorizontal, Triangle, Hexagon, Star, Heart,
-  ArrowRight, ArrowUp, ArrowDown, ArrowLeft, ArrowUpDown,
+  ArrowRight, ArrowUp, ArrowDown, ArrowLeft, ArrowUpDown, 
   Highlighter, Eraser as EraserIcon, ScanFace, Eye, EyeOff,
   HandMetal, Crosshair, Scan, Move3D, RotateCw, Scaling, Waves,
   Globe, Brush, Palette, Lightbulb, Focus, Sparkles as SparklesIcon2,
