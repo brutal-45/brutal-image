@@ -5,7 +5,7 @@ import { motion, AnimatePresence } from 'framer-motion'
 import {
   MousePointer2, Move, Crop, Paintbrush, Eraser, PaintBucket, Type,
   Square, Circle, Minus, ZoomIn, Hand, PenTool, Lasso, Wand2,
-  Sparkles, Bandage, Stamp, Sun, Moon, Droplets, Contrast, Aperture,
+  Sparkles, Bandage, Stamp, Sun, Moon, Droplets, Contrast, Aperture, 
   CircleDot, Scissors, RotateCcw, FlipHorizontal, FlipVertical,
   Maximize, Minimize, Grid3X3, Pipette, Target, Layers,
   Filter, Blend, Pen, Pencil, RotateCw, ZoomOut,
