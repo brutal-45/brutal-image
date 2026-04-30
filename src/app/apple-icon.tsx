@@ -11,7 +11,7 @@ export const size = {
 
 export const contentType = 'image/png'
 
-// Image generation
+// Image generation 
 export default function AppleIcon() {
   return new ImageResponse(
     (
