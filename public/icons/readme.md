@@ -1,3 +1,3 @@
 #  Here all icons png files. 
 
-This icons is used in app
+This icons are used in app
