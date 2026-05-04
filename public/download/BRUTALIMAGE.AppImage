@@ -6,7 +6,7 @@
   <title>BRUTALIMAGE for Linux</title>
   <style>
     body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; 
       background: linear-gradient(135deg, #0a0a0a, #1a1a1a);
       color: #fff;
       display: flex;
