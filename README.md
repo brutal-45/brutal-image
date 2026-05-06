@@ -23,9 +23,9 @@
 
 ## 💡 What is BRUTALIMAGE?
 
-**BRUTALIMAGE** is a next-generation image editing platform that combines professional-grade tools with cutting-edge AI technology. No installation required — runs entirely in your browser with full offline support.
+**BRUTALIMAGE** is a next-generation image editing platform that combines professional-grade tools with cutting-edge AI technology. No installation required — runs entirely in your browser with full offline support.   
 
-> ⚡ **Fast** · 🎨 **Powerful** · 🤖 **AI-Enhanced** · 📱 **Mobile-First** · 🔒 **Privacy-Focused**
+> ⚡ **Fast** · 🎨 **Powerful** · 🤖 **AI-Enhanced** · 📱 **Mobile-Optimized** · 🔒 **Privacy-Focused**
 
 ---
 
