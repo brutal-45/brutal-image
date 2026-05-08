@@ -129,7 +129,7 @@ Successfully implemented all requested improvements:
 
 1. **Editor Tool Improvements** (`/src/components/editor/Editor.tsx`):
 
-   **Crop Tool (Functional)**:
+   **Crop Tool (Functional)**: 
    - Added crop overlay on canvas with corner handles
    - Aspect ratio options (Free, 1:1, 4:3, 16:9, 3:2)
    - Rule of thirds overlay option
