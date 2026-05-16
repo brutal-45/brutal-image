@@ -3,7 +3,7 @@
 ---
 ## Task ID: 1 - Main Agent
 ### Work Task
-Building a complete professional image editing website called "BRUTALIMAGE" with brutal futuristic identity.
+Building a complete professional image editing website called "BRUTALIMAGE" with brutal futuristic identity. 
 
 ### Work Summary
 Starting project development with the following plan:
