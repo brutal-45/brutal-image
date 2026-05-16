@@ -2,7 +2,7 @@
 
 # 🖼️ BRUTALIMAGE
 
-### **The Future of Image Editing is Here**
+### **The Future of Image Editing is Here** 
 
 *Professional-grade image editor with AI superpowers, running entirely in your browser*
 
