@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
     ignoreBuildErrors: true,
   },
   reactStrictMode: false,
-  // Disable the development indicator [Next.js logo]
+  // Disable the development indicator [Next.js logo] 
   devIndicators: false,
 };
 
