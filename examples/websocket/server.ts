@@ -3,14 +3,14 @@ import { Server } from 'socket.io'
 
 const httpServer = createServer()
 const io = new Server(httpServer, { 
-  // DO NOT change the path, it is used by Caddy to forward the request to the correct port              
+  // DO NOT change the path, it is used by Caddy to forward the request to the correct port
   path: '/',
   cors: {
     origin: "*",
     methods: ["GET", "POST"]
   },
   pingTimeout: 60000,
-  pingInterval: 25000,
+  pingInterval: 25000, 
 })
  
 interface User {
