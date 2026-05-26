@@ -1,4 +1,4 @@
-// Complete tool definitions for BRUTALIMAGE editor
+// Complete tool definitions for BRUTALIMAGE EDITOR
 
 import {
   MousePointer2, Move, Crop, Paintbrush, Eraser, PaintBucket, Type,
