@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState } from 'react' 
 import { motion, AnimatePresence } from 'framer-motion'
 import { X, Mail, Lock, User, Chrome, Loader2 } from 'lucide-react'
 import { Button } from '@/components/ui/button'
