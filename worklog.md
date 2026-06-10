@@ -1,4 +1,4 @@
-# BRUTALIMAGE Project Worklog 
+# BRUTALIMAGE Project Worklog
 
 ---
 ## Task ID: 1 - Main Agent
