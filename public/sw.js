@@ -1,4 +1,4 @@
-// BRUTALIMAGE Service Worker v2.3.0 
+// BRUTALIMAGE Service Worker v2.3.0
 const CACHE_NAME = 'brutalimage-v2.3.1'; 
 const STATIC_ASSETS = [ 
   '/',
