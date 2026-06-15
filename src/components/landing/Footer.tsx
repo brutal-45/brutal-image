@@ -1,4 +1,4 @@
-'use client'
+'use client' 
 
 import { motion } from 'framer-motion'
 import { Github, Twitter, Instagram, Mail } from 'lucide-react'
