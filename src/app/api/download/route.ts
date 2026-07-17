@@ -1,4 +1,4 @@
-import { NextRequest, NextResponse } from 'next/server'
+import { NextRequest, NextResponse } from 'next/server' 
 
 // Generate downloadable files for different platforms
 export async function GET(request: NextRequest) {
