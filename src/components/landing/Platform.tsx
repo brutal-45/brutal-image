@@ -1,4 +1,4 @@
-'use client'
+'use client' 
 
 import { motion } from 'framer-motion'
 import { Globe, Smartphone, Monitor, Download, LucideIcon } from 'lucide-react'
