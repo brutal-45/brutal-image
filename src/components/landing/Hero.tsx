@@ -1,4 +1,4 @@
-'use client'
+'use client' 
 
 import { motion, useReducedMotion } from 'framer-motion'
 import { Sparkles, Zap, ArrowRight, MousePointer2 } from 'lucide-react'
